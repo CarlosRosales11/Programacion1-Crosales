@@ -1,0 +1,15 @@
+C:\Users\carlos\source\repos\Ejercicios de While\Ejercicios de While\bin\Debug\net6.0\Ejercicios de While.exe
+C:\Users\carlos\source\repos\Ejercicios de While\Ejercicios de While\bin\Debug\net6.0\Ejercicios de While.deps.json
+C:\Users\carlos\source\repos\Ejercicios de While\Ejercicios de While\bin\Debug\net6.0\Ejercicios de While.runtimeconfig.json
+C:\Users\carlos\source\repos\Ejercicios de While\Ejercicios de While\bin\Debug\net6.0\Ejercicios de While.dll
+C:\Users\carlos\source\repos\Ejercicios de While\Ejercicios de While\bin\Debug\net6.0\Ejercicios de While.pdb
+C:\Users\carlos\source\repos\Ejercicios de While\Ejercicios de While\obj\Debug\net6.0\Ejercicios de While.csproj.AssemblyReference.cache
+C:\Users\carlos\source\repos\Ejercicios de While\Ejercicios de While\obj\Debug\net6.0\Ejercicios de While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos\source\repos\Ejercicios de While\Ejercicios de While\obj\Debug\net6.0\Ejercicios de While.AssemblyInfoInputs.cache
+C:\Users\carlos\source\repos\Ejercicios de While\Ejercicios de While\obj\Debug\net6.0\Ejercicios de While.AssemblyInfo.cs
+C:\Users\carlos\source\repos\Ejercicios de While\Ejercicios de While\obj\Debug\net6.0\Ejercicios de While.csproj.CoreCompileInputs.cache
+C:\Users\carlos\source\repos\Ejercicios de While\Ejercicios de While\obj\Debug\net6.0\Ejercicios de While.dll
+C:\Users\carlos\source\repos\Ejercicios de While\Ejercicios de While\obj\Debug\net6.0\refint\Ejercicios de While.dll
+C:\Users\carlos\source\repos\Ejercicios de While\Ejercicios de While\obj\Debug\net6.0\Ejercicios de While.pdb
+C:\Users\carlos\source\repos\Ejercicios de While\Ejercicios de While\obj\Debug\net6.0\Ejercicios de While.genruntimeconfig.cache
+C:\Users\carlos\source\repos\Ejercicios de While\Ejercicios de While\obj\Debug\net6.0\ref\Ejercicios de While.dll
