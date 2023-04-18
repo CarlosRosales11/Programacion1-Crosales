@@ -1,0 +1,15 @@
+C:\Users\carlos\source\repos\Ejercicios de DO{} While()\Ejercicios de DO{} While()\bin\Debug\net6.0\Ejercicios de DO{} While().exe
+C:\Users\carlos\source\repos\Ejercicios de DO{} While()\Ejercicios de DO{} While()\bin\Debug\net6.0\Ejercicios de DO{} While().deps.json
+C:\Users\carlos\source\repos\Ejercicios de DO{} While()\Ejercicios de DO{} While()\bin\Debug\net6.0\Ejercicios de DO{} While().runtimeconfig.json
+C:\Users\carlos\source\repos\Ejercicios de DO{} While()\Ejercicios de DO{} While()\bin\Debug\net6.0\Ejercicios de DO{} While().dll
+C:\Users\carlos\source\repos\Ejercicios de DO{} While()\Ejercicios de DO{} While()\bin\Debug\net6.0\Ejercicios de DO{} While().pdb
+C:\Users\carlos\source\repos\Ejercicios de DO{} While()\Ejercicios de DO{} While()\obj\Debug\net6.0\Ejercicios de DO{} While().csproj.AssemblyReference.cache
+C:\Users\carlos\source\repos\Ejercicios de DO{} While()\Ejercicios de DO{} While()\obj\Debug\net6.0\Ejercicios de DO{} While().GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos\source\repos\Ejercicios de DO{} While()\Ejercicios de DO{} While()\obj\Debug\net6.0\Ejercicios de DO{} While().AssemblyInfoInputs.cache
+C:\Users\carlos\source\repos\Ejercicios de DO{} While()\Ejercicios de DO{} While()\obj\Debug\net6.0\Ejercicios de DO{} While().AssemblyInfo.cs
+C:\Users\carlos\source\repos\Ejercicios de DO{} While()\Ejercicios de DO{} While()\obj\Debug\net6.0\Ejercicios de DO{} While().csproj.CoreCompileInputs.cache
+C:\Users\carlos\source\repos\Ejercicios de DO{} While()\Ejercicios de DO{} While()\obj\Debug\net6.0\Ejercicios de DO{} While().dll
+C:\Users\carlos\source\repos\Ejercicios de DO{} While()\Ejercicios de DO{} While()\obj\Debug\net6.0\refint\Ejercicios de DO{} While().dll
+C:\Users\carlos\source\repos\Ejercicios de DO{} While()\Ejercicios de DO{} While()\obj\Debug\net6.0\Ejercicios de DO{} While().pdb
+C:\Users\carlos\source\repos\Ejercicios de DO{} While()\Ejercicios de DO{} While()\obj\Debug\net6.0\Ejercicios de DO{} While().genruntimeconfig.cache
+C:\Users\carlos\source\repos\Ejercicios de DO{} While()\Ejercicios de DO{} While()\obj\Debug\net6.0\ref\Ejercicios de DO{} While().dll
