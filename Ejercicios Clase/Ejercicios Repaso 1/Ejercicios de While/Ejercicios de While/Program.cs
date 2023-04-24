@@ -1,6 +1,6 @@
-﻿// Ejercicios de While
+﻿// Ejercicios de Mientras - While
 
-// 1) El usuario ingresará valores positivos, cuando no tenga más valores ingresará 0 (cero) El sistema deberá informar la suma de los ingresados
+// 1) El usuario ingresará valores positivos, cuando no tenga más valores ingresará 0 (cero) El sistema deberá informar la suma de los ingresados.
 /*
 class sumaPositivos
 {
@@ -23,7 +23,7 @@ class sumaPositivos
 }
 */
 
-// 2) Siguiendo el ejercicio anterior, calcular el promedio de los valores ingresados
+// 2) Siguiendo el ejercicio anterior, calcular el promedio de los valores ingresados.
 /*
 class promedioPositivos
 {

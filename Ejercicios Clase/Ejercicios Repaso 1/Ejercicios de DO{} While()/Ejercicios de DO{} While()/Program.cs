@@ -1,6 +1,6 @@
-﻿//Ejercicios de DO{}While()
+﻿//Ejercicios de Repetir - DO{} While()
 
-// 1) Para el ingreso a un sistema se necesita solicitar nombre de usuario y clave, repetir este ingreso hasta que el usuario ingrese la clave correcta: 667788
+// 1) Para el ingreso a un sistema se necesita solicitar nombre de usuario y clave, repetir este ingreso hasta que el usuario ingrese la clave correcta: 667788.
 /*
 class Registro
 {
@@ -45,7 +45,7 @@ class Positivo
 }
 */
 
-// 3) Siguiendo con el ejercicio anterior, al ingresar el positivo se mostrará el promedio de los números negativos ingresados
+// 3) Siguiendo con el ejercicio anterior, al ingresar el positivo se mostrará el promedio de los números negativos ingresados.
 /*
 class promedioNegativos
 {
@@ -79,7 +79,7 @@ class promedioNegativos
 }
 */
 
-// 4) Se le solicitará ingresar números al usuario, se repetirá el pedido hasta que ingrese un número mayor a 3 cifras
+// 4) Se le solicitará ingresar números al usuario, se repetirá el pedido hasta que ingrese un número mayor a 3 cifras.
 /*
 class Numeros
 {

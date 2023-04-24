@@ -1,0 +1,30 @@
+C:\Users\carlos\source\repos\Ejercicios de For\Ejercicios de For\bin\Debug\net6.0\Ejercicios de For.exe
+C:\Users\carlos\source\repos\Ejercicios de For\Ejercicios de For\bin\Debug\net6.0\Ejercicios de For.deps.json
+C:\Users\carlos\source\repos\Ejercicios de For\Ejercicios de For\bin\Debug\net6.0\Ejercicios de For.runtimeconfig.json
+C:\Users\carlos\source\repos\Ejercicios de For\Ejercicios de For\bin\Debug\net6.0\Ejercicios de For.dll
+C:\Users\carlos\source\repos\Ejercicios de For\Ejercicios de For\bin\Debug\net6.0\Ejercicios de For.pdb
+C:\Users\carlos\source\repos\Ejercicios de For\Ejercicios de For\obj\Debug\net6.0\Ejercicios de For.csproj.AssemblyReference.cache
+C:\Users\carlos\source\repos\Ejercicios de For\Ejercicios de For\obj\Debug\net6.0\Ejercicios de For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos\source\repos\Ejercicios de For\Ejercicios de For\obj\Debug\net6.0\Ejercicios de For.AssemblyInfoInputs.cache
+C:\Users\carlos\source\repos\Ejercicios de For\Ejercicios de For\obj\Debug\net6.0\Ejercicios de For.AssemblyInfo.cs
+C:\Users\carlos\source\repos\Ejercicios de For\Ejercicios de For\obj\Debug\net6.0\Ejercicios de For.csproj.CoreCompileInputs.cache
+C:\Users\carlos\source\repos\Ejercicios de For\Ejercicios de For\obj\Debug\net6.0\Ejercicios de For.dll
+C:\Users\carlos\source\repos\Ejercicios de For\Ejercicios de For\obj\Debug\net6.0\refint\Ejercicios de For.dll
+C:\Users\carlos\source\repos\Ejercicios de For\Ejercicios de For\obj\Debug\net6.0\Ejercicios de For.pdb
+C:\Users\carlos\source\repos\Ejercicios de For\Ejercicios de For\obj\Debug\net6.0\Ejercicios de For.genruntimeconfig.cache
+C:\Users\carlos\source\repos\Ejercicios de For\Ejercicios de For\obj\Debug\net6.0\ref\Ejercicios de For.dll
+C:\Users\carlos\OneDrive\Documentos\GitHub\Programacion1-Crosales\Ejercicios Clase\Ejercicios Repaso 1\Ejercicios de For\Ejercicios de For\bin\Debug\net6.0\Ejercicios de For.exe
+C:\Users\carlos\OneDrive\Documentos\GitHub\Programacion1-Crosales\Ejercicios Clase\Ejercicios Repaso 1\Ejercicios de For\Ejercicios de For\bin\Debug\net6.0\Ejercicios de For.deps.json
+C:\Users\carlos\OneDrive\Documentos\GitHub\Programacion1-Crosales\Ejercicios Clase\Ejercicios Repaso 1\Ejercicios de For\Ejercicios de For\bin\Debug\net6.0\Ejercicios de For.runtimeconfig.json
+C:\Users\carlos\OneDrive\Documentos\GitHub\Programacion1-Crosales\Ejercicios Clase\Ejercicios Repaso 1\Ejercicios de For\Ejercicios de For\bin\Debug\net6.0\Ejercicios de For.dll
+C:\Users\carlos\OneDrive\Documentos\GitHub\Programacion1-Crosales\Ejercicios Clase\Ejercicios Repaso 1\Ejercicios de For\Ejercicios de For\bin\Debug\net6.0\Ejercicios de For.pdb
+C:\Users\carlos\OneDrive\Documentos\GitHub\Programacion1-Crosales\Ejercicios Clase\Ejercicios Repaso 1\Ejercicios de For\Ejercicios de For\obj\Debug\net6.0\Ejercicios de For.csproj.AssemblyReference.cache
+C:\Users\carlos\OneDrive\Documentos\GitHub\Programacion1-Crosales\Ejercicios Clase\Ejercicios Repaso 1\Ejercicios de For\Ejercicios de For\obj\Debug\net6.0\Ejercicios de For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos\OneDrive\Documentos\GitHub\Programacion1-Crosales\Ejercicios Clase\Ejercicios Repaso 1\Ejercicios de For\Ejercicios de For\obj\Debug\net6.0\Ejercicios de For.AssemblyInfoInputs.cache
+C:\Users\carlos\OneDrive\Documentos\GitHub\Programacion1-Crosales\Ejercicios Clase\Ejercicios Repaso 1\Ejercicios de For\Ejercicios de For\obj\Debug\net6.0\Ejercicios de For.AssemblyInfo.cs
+C:\Users\carlos\OneDrive\Documentos\GitHub\Programacion1-Crosales\Ejercicios Clase\Ejercicios Repaso 1\Ejercicios de For\Ejercicios de For\obj\Debug\net6.0\Ejercicios de For.csproj.CoreCompileInputs.cache
+C:\Users\carlos\OneDrive\Documentos\GitHub\Programacion1-Crosales\Ejercicios Clase\Ejercicios Repaso 1\Ejercicios de For\Ejercicios de For\obj\Debug\net6.0\Ejercicios de For.dll
+C:\Users\carlos\OneDrive\Documentos\GitHub\Programacion1-Crosales\Ejercicios Clase\Ejercicios Repaso 1\Ejercicios de For\Ejercicios de For\obj\Debug\net6.0\refint\Ejercicios de For.dll
+C:\Users\carlos\OneDrive\Documentos\GitHub\Programacion1-Crosales\Ejercicios Clase\Ejercicios Repaso 1\Ejercicios de For\Ejercicios de For\obj\Debug\net6.0\Ejercicios de For.pdb
+C:\Users\carlos\OneDrive\Documentos\GitHub\Programacion1-Crosales\Ejercicios Clase\Ejercicios Repaso 1\Ejercicios de For\Ejercicios de For\obj\Debug\net6.0\Ejercicios de For.genruntimeconfig.cache
+C:\Users\carlos\OneDrive\Documentos\GitHub\Programacion1-Crosales\Ejercicios Clase\Ejercicios Repaso 1\Ejercicios de For\Ejercicios de For\obj\Debug\net6.0\ref\Ejercicios de For.dll
