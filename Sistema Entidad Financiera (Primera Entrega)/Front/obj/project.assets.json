@@ -2645,11 +2645,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlos\\OneDrive\\Escritorio\\SistemaEntidadFinanciera\\Front\\Front.csproj",
+      "projectUniqueName": "C:\\Users\\carlos\\OneDrive\\Documentos\\GitHub\\Programacion1-Crosales\\Sistema Entidad Financiera (Primera Entrega)\\Front\\Front.csproj",
       "projectName": "Front",
-      "projectPath": "C:\\Users\\carlos\\OneDrive\\Escritorio\\SistemaEntidadFinanciera\\Front\\Front.csproj",
+      "projectPath": "C:\\Users\\carlos\\OneDrive\\Documentos\\GitHub\\Programacion1-Crosales\\Sistema Entidad Financiera (Primera Entrega)\\Front\\Front.csproj",
       "packagesPath": "C:\\Users\\carlos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carlos\\OneDrive\\Escritorio\\SistemaEntidadFinanciera\\Front\\obj\\",
+      "outputPath": "C:\\Users\\carlos\\OneDrive\\Documentos\\GitHub\\Programacion1-Crosales\\Sistema Entidad Financiera (Primera Entrega)\\Front\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2670,8 +2670,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\carlos\\OneDrive\\Escritorio\\SistemaEntidadFinanciera\\Back\\Back.csproj": {
-              "projectPath": "C:\\Users\\carlos\\OneDrive\\Escritorio\\SistemaEntidadFinanciera\\Back\\Back.csproj"
+            "C:\\Users\\carlos\\OneDrive\\Documentos\\GitHub\\Programacion1-Crosales\\Sistema Entidad Financiera (Primera Entrega)\\Back\\Back.csproj": {
+              "projectPath": "C:\\Users\\carlos\\OneDrive\\Documentos\\GitHub\\Programacion1-Crosales\\Sistema Entidad Financiera (Primera Entrega)\\Back\\Back.csproj"
             }
           }
         }

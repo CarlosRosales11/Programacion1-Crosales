@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TTQGbY/WLQkzuE2MB2W/cmR2vDA1x5gCMYrFB743zCyQ7R2/e7XRZyZ4uzK2YI/i9qaDQdpWDk2EvQ8ipj/Kcw==",
+  "dgSpecHash": "rN2UtiqfQYCSOFVwfw6SIQYAgMIg6BJk8I9JscHxkQWd9ivrX9GjTM0Yh/wZL+910hBOJWLAXcPA8lPQwYmsOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\carlos\\OneDrive\\Escritorio\\SistemaEntidadFinanciera\\Back\\Back.csproj",
+  "projectFilePath": "C:\\Users\\carlos\\OneDrive\\Documentos\\GitHub\\Programacion1-Crosales\\Sistema Entidad Financiera (Primera Entrega)\\Back\\Back.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carlos\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\carlos\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
